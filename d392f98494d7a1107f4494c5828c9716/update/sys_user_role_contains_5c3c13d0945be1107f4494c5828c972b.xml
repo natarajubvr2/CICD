@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_snc_cicd_demoapp.loaner_request_user" name="x_snc_cicd_demoapp.loaner_request_user">6ebad350945be1107f4494c5828c97a9</contains>
+        <role display_value="x_snc_cicd_demoapp.admin" name="x_snc_cicd_demoapp.admin">8b0c93d0945be1107f4494c5828c979e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-04 12:09:57</sys_created_on>
+        <sys_id>5c3c13d0945be1107f4494c5828c972b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cicd_demoapp.loaner_request_user.x_snc_cicd_demoapp.admin</sys_name>
+        <sys_package display_value="CICD DemoAppCICD Pipeline Demo Application" source="x_snc_cicd_demoapp">d392f98494d7a1107f4494c5828c9716</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD DemoAppCICD Pipeline Demo Application">d392f98494d7a1107f4494c5828c9716</sys_scope>
+        <sys_update_name>sys_user_role_contains_5c3c13d0945be1107f4494c5828c972b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-04 12:09:57</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
